@@ -1,0 +1,13 @@
+.image-gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr ); /* Adjust the number of columns as needed */
+    grid-gap: 10px; /* Adjust the gap between images as needed */
+  }
+  
+  .gallery-image {
+    width: 50%;
+    height: auto;
+  }
+  .searchPage_result {
+    margin: 40px;
+}
